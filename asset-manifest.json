@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bembi/static/css/main.d357682b.css",
-    "main.js": "/bembi/static/js/main.9e53ed14.js",
+    "main.js": "/bembi/static/js/main.06707cf4.js",
     "static/media/background-img.jpg": "/bembi/static/media/background-img.8a1f6894e3f046cddfa0.jpg",
     "index.html": "/bembi/index.html",
     "main.d357682b.css.map": "/bembi/static/css/main.d357682b.css.map",
-    "main.9e53ed14.js.map": "/bembi/static/js/main.9e53ed14.js.map"
+    "main.06707cf4.js.map": "/bembi/static/js/main.06707cf4.js.map"
   },
   "entrypoints": [
     "static/css/main.d357682b.css",
-    "static/js/main.9e53ed14.js"
+    "static/js/main.06707cf4.js"
   ]
 }
