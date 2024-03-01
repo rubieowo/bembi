@@ -10,6 +10,7 @@ import FourYears from './components/FourYears';
 import TwoYears from './components/TwoYears';
 import Prepare from './components/Prepare';
 import Gallery from './components/Gallery';
+import Contact from './components/Contact';
 
 const router = createHashRouter([
   {
@@ -51,6 +52,10 @@ const router = createHashRouter([
   {
     element: <Gallery />,
     path: "/Gallery"
+  },
+  {
+    element: <Contact />,
+    path: "/Contact"
   }
 ])
 

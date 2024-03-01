@@ -1,34 +1,38 @@
-.navbar {
-  position: sticky !important;
+#navbar-thing {
+  position: sticky;
   z-index: 10;
 }
 
-#main-nav {
-  background-color: #576cd89d !important;
-} 
+
 
 .link {
+  font-size: 1.2rem;
   text-decoration: none;
   color: black;
   transition-duration: 0.3s;
 }
 
 .link2 {
-  color: white;
+  font-size: 1.2rem;
+  color: black;
   transition-duration: 0.3s;
   text-decoration: none;
 }
 
 #basic-nav-dropdown {
-  color: white !important;
+  color: black !important;
+}
+
+#basic-nav-dropdown:hover {
+  color: gold !important;
 }
 
 .link2:hover {
     text-decoration: none;
-    color: rgb(194, 194, 194);
+    color: gold;
 }
 
 .link:hover {
   text-decoration: none;
-  color: rgb(194, 194, 194);
+  color: gold;
 }
