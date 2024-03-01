@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bembi/static/css/main.e3ce9ee3.css",
-    "main.js": "/bembi/static/js/main.67f19acb.js",
+    "main.css": "/bembi/static/css/main.6d6d0d1f.css",
+    "main.js": "/bembi/static/js/main.640416b0.js",
     "static/media/happy.png": "/bembi/static/media/happy.216c28c4ff7aec29c969.png",
     "static/media/abc.png": "/bembi/static/media/abc.4877a7bdc53bf0d634a3.png",
     "static/media/lightbulb.png": "/bembi/static/media/lightbulb.8054e0e41f867c3a50b3.png",
     "static/media/background-img.jpg": "/bembi/static/media/background-img.0f85ef9732b4c7ee594c.jpg",
     "static/media/book.png": "/bembi/static/media/book.85c7a172ed3f0c7b64d3.png",
     "index.html": "/bembi/index.html",
-    "main.e3ce9ee3.css.map": "/bembi/static/css/main.e3ce9ee3.css.map",
-    "main.67f19acb.js.map": "/bembi/static/js/main.67f19acb.js.map"
+    "main.6d6d0d1f.css.map": "/bembi/static/css/main.6d6d0d1f.css.map",
+    "main.640416b0.js.map": "/bembi/static/js/main.640416b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3ce9ee3.css",
-    "static/js/main.67f19acb.js"
+    "static/css/main.6d6d0d1f.css",
+    "static/js/main.640416b0.js"
   ]
 }
