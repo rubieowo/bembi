@@ -40,25 +40,25 @@ function Home() {
         </div>
       </div>
       <div className='about-us'>
-        <div className='card'>
+        <div className='card2'>
           <div className='image-container'>
             <img src={abc}></img>
           </div>
           <p className='card-text'>საუკეთესო მასწავლებლები</p>
         </div>
-        <div className='card'>
+        <div className='card2'>
           <div className='image-container'>
             <img src={book}></img>
           </div>
           <p className='card-text'>სრულად აღჭურვილი</p>
         </div>
-        <div className='card'>
+        <div className='card2'>
           <div className='image-container'>
             <img src={happy}></img>
           </div>
           <p className='card-text'>სახალისო გარემო</p>
         </div>
-        <div className='card'>
+        <div className='card2'>
           <div className='image-container'>
             <img src={lightbulb}></img>
           </div>
